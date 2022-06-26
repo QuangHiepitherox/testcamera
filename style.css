@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+#block{
+    background-color: #000;
+    width: 100%;
+    height: 60rem;
+    position: relative;
+}
+#img-name{
+    width: 13.6rem;
+    height: 5.6rem;
+    position: relative;
+    top: 2.4rem;
+    left: 2.4rem;
+}
+#img-user{
+    width: 4.2rem;
+    height: 4.2rem;
+    border-radius: 4rem;    
+}
+#name-user{
+    font-size: 1.6rem;
+    position: absolute;
+    top: 0.4rem;
+    left: 5.4rem;
+    color: #fff;
+}
+#num-peoper{
+    font-size: 1.2rem;
+    position: absolute;
+    top: 2.4rem;
+    left: 5.8rem;
+    color: #fff;
+
+}
+#icon-video{
+    color: #fff;
+    background-color: #000;
+    font-size: 2.4rem;
+    height: 2.4rem;
+    width: 2.4rem;
+    margin: 0 1.6rem;
+}
+#video-icon{
+    top: 2.8rem;
+    right: 2.4rem;
+    position: absolute;
+    height: 5.6rem;
+    width: 10rem;
+    display: flex;
+}
+#icon-icon{
+    color: #fff;
+    background-color: #000;
+    font-size: 2.4rem;
+    height: 2.4rem;
+    width: 2.4rem;
+}
+#imgvideo{
+    top: -20rem;
+    left: 52rem;
+    height: 74.4rem;
+    width: 38rem;
+    background-color: rgba(204, 204, 204, 0.8);
+    position: relative;
+}
+#img-use{
+    width: 4.2rem;
+    height: 4.2rem;
+    border-radius: 4rem;
+    top: 30rem;
+    position: absolute;
+    left: 18rem;
+}
+#text-video{
+    position: absolute;
+    top: 36.8rem;
+    color: #fff;
+    left: 10.4rem;
+    font-size: 1.6rem;
+}
+#time-user{
+    position: absolute;
+    top: 42rem;
+    left: 16.8rem;
+    color: #fff;
+    font-size: 1.6rem;
+}
+#heandle-button{
+    position: absolute;
+    bottom: 2.4rem;
+    left: 60rem;
+}
+#app-icon{
+    font-size: 2.8rem;
+    color: #fff;
+    border: none;
+    margin: 0 1rem;
+    border-radius: 40rem;
+    height: 2.8rem;
+    width: 2.8rem;
+    background-color: #a3a3a3;
+}
+#camera-block{
+    bottom: 2.4rem;
+    position: absolute;
+    right: 2rem;
+    height: 16rem;
+    width: 28rem;
+    background-color: #ccc;
+    border-radius: 0.8rem;
+}
